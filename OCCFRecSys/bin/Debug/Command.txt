@@ -1,0 +1,43 @@
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/0.3/u1_d0.3_User-Oriented.base --test=../Movielens/u1/0.3/u1_d0.3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/0.3/u2_d0.3_User-Oriented.base --test=../Movielens/u2/0.3/u2_d0.3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/0.3/u3_d0.3_User-Oriented.base --test=../Movielens/u3/0.3/u3_d0.3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/0.3/u4_d0.3_User-Oriented.base --test=../Movielens/u4/0.3/u4_d0.3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/0.3/u5_d0.3_User-Oriented.base --test=../Movielens/u5/0.3/u5_d0.3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/0.5/u2_d0.5_User-Oriented.base --test=../Movielens/u2/0.5/u2_d0.5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/1/u2_d1_User-Oriented.base --test=../Movielens/u2/1/u2_d1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/2/u2_d2_User-Oriented.base --test=../Movielens/u2/2/u2_d2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/3/u2_d3_User-Oriented.base --test=../Movielens/u2/3/u2_d3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/4/u2_d4_User-Oriented.base --test=../Movielens/u2/4/u2_d4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/0.5/u1_d0.5_User-Oriented.base --test=../Movielens/u1/0.5/u1_d0.5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/1/u1_d1_User-Oriented.base --test=../Movielens/u1/1/u1_d1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/2/u1_d2_User-Oriented.base --test=../Movielens/u1/2/u1_d2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/3/u1_d3_User-Oriented.base --test=../Movielens/u1/3/u1_d3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/4/u1_d4_User-Oriented.base --test=../Movielens/u1/4/u1_d4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/0.5/u3_d0.5_User-Oriented.base --test=../Movielens/u3/0.5/u3_d0.5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/1/u3_d1_User-Oriented.base --test=../Movielens/u3/1/u3_d1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/2/u3_d2_User-Oriented.base --test=../Movielens/u3/2/u3_d2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/3/u3_d3_User-Oriented.base --test=../Movielens/u3/3/u3_d3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/4/u3_d4_User-Oriented.base --test=../Movielens/u3/4/u3_d4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/0.5/u4_d0.5_User-Oriented.base --test=../Movielens/u4/0.5/u4_d0.5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/1/u4_d1_User-Oriented.base --test=../Movielens/u4/1/u4_d1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/2/u4_d2_User-Oriented.base --test=../Movielens/u4/2/u4_d2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/3/u4_d3_User-Oriented.base --test=../Movielens/u4/3/u4_d3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/4/u4_d4_User-Oriented.base --test=../Movielens/u4/4/u4_d4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/0.5/u5_d0.5_User-Oriented.base --test=../Movielens/u5/0.5/u5_d0.5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/1/u5_d1_User-Oriented.base --test=../Movielens/u5/1/u5_d1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/2/u5_d2_User-Oriented.base --test=../Movielens/u5/2/u5_d2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/3/u5_d3_User-Oriented.base --test=../Movielens/u5/3/u5_d3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/4/u5_d4_User-Oriented.base --test=../Movielens/u5/4/u5_d4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+
+
+./toolkits/collaborative_filtering/wals --training=../Movielens/u1/u1_User-Oriented.base --test=../Movielens/u1/u1_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u2/u2_User-Oriented.base --test=../Movielens/u2/u2_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u3/u3_User-Oriented.base --test=../Movielens/u3/u3_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u4/u4_User-Oriented.base --test=../Movielens/u4/u4_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
+./toolkits/collaborative_filtering/wals --training=../Movielens/u5/u5_User-Oriented.base --test=../Movielens/u5/u5_OCCF.test --minval=-1 --maxval=1 --max_iter=200 --lambda=0.065 --quiet=1 --nshards=1
